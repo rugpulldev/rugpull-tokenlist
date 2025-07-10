@@ -1,20 +1,16 @@
 {
   "name": "RugPull Token List",
-  "logoURI": "https://raw.githubusercontent.com/rugpulldev/rugpull-tokenlist/main/logo.png",
-  "timestamp": "2025-07-07T00:00:00+00:00",
+  "logoURI": "https://raw.githubusercontent.com/rugpulldev/rugpullcoin/main/logo.png",
+  "keywords": ["rugpull", "meme", "token"],
+  "timestamp": "2025-07-10T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 11155111,
-      "address": "0xd89b32efed0a68012a173ca8c2dc4239abde509c",
+      "chainId": 1,
+      "address": "0xD89B32efed0a68012a173cA8c2Dc4239aBDE509c",
       "name": "RugPull Coin",
       "symbol": "RUG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/rugpulldev/rugpull-tokenlist/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/rugpulldev/rugpullcoin/main/logo.png"
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  ]
 }
